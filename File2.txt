@@ -11,3 +11,20 @@ master > branch changes here this is new change
 
 master > branch changes here
 
+1. Navin kharch bhara - submit button not required
+
+2. Majuri -> new entry: kamacha kalavadhi not editable
+
+3. All 3 new entry pages not scrolling, some UI part hidden behind submit button
+
+4. Height of drop-down and edit box should be same
+
+5. Bhade tatwawaril avjare: kalavadhi not editable
+
+6. Kharedicha dinak not editable on 2nd and 3rd section
+
+1. Login and Registration
+1. Login not working. 
+
+
+
